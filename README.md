@@ -44,4 +44,19 @@ RFM analysis is marketing framework that is used to understand and analyze custo
 The RFM analysis will help the business to segement their customer base into different homogeneous groups so they can engage with each group with different market strategies.
 
 
+
+
+Conclusion
+First we did customer segmentation based on RFM analysis.
+
+Platinum customers = 1263 (less recency rate but high frequency and heavy spending)
+Gold customers = 1324 (good recency, frequency and monetary)
+Silver customers = 981 (high recency ,low frequency and low spending)
+Bronze customers = 770 (very high recency but very less frequency and spending amount).
+Later we implemented Machine learning algorithms to cluster , as we have seen we got optimal clusters = 2 for all the algorithms.
+
+The RFM analysis emphasizes the importance of personalization in the marketing efforts. By understanding each customer's RFM profile, we can deliver targeted content, product recommendations, and promotions that resonate with their preferences and purchasing history. Personalization enhances customer experience and increases the likelihood of conversion.
+
+The RFM analysis conducted on our online retail business dataset has revealed valuable insights into our customer base and their purchasing behavior. These insights can guide our marketing strategies and customer engagement efforts, ultimately leading to improved customer satisfaction and business growth.
+
 There are null values in CustomerID and Description.
