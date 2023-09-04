@@ -23,3 +23,9 @@ Quantity : The quantities of each product per transcation. Numeric.
 InvoiceDate : Invoice date and time. Numeric, the day and time when each transcation was generated.
 
 Unit price: Unit price, Product price on unit selling.
+
+Observations:
+
+Datatype of InvoiceDate is object type need to convert into Datetime
+If the InvoiceNo starts with C means it's cancellation. We need to drop this entries.
+There are null values in CustomerID and Description.
