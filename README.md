@@ -28,4 +28,20 @@ Observations:
 
 Datatype of InvoiceDate is object type need to convert into Datetime
 If the InvoiceNo starts with C means it's cancellation. We need to drop this entries.
+
+
+What is RFM?
+RFM(Recency, Frequency, Monetary) analysis is widely used Customer segmentation technique in marketing and analytics.It helps businesses understand and categorize their customers based on three key factors.
+
+Recency: How recently they made purchase.
+Frequency: How frequently they make Purchase.
+Monetary : How much they spend.
+RMF analysis enables businesses to identify and target different customer segment with customized marketing approach.
+
+Why it is Needed?
+RFM analysis is marketing framework that is used to understand and analyze customer behaivour based on the above three factors Recency, Frequency and Monetary.
+
+The RFM analysis will help the business to segement their customer base into different homogeneous groups so they can engage with each group with different market strategies.
+
+
 There are null values in CustomerID and Description.
